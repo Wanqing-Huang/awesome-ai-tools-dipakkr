@@ -59,6 +59,7 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 
 ## Audio & Music
 
+| [CharaVox](https://charavox.com) | AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM. |
 | Tool Name | Main Use Cases | Suitable Job Roles | View Tool |
 |-----------|---------------|-------------------|-----------|
 | Moises | • Audio separation<br>• Music practice<br>• Chord detection | • Musicians<br>• Music Teachers<br>• Content Creators | [View Tool](http://www.tooljunction.io/ai-tools/moises-the-musicians-app) |
