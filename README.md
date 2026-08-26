@@ -89,6 +89,7 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 |-----------|---------------|-------------------|-----------|
 | Localo | • Local SEO optimization<br>• Business profile management<br>• Review tracking | • Business Owners<br>• Digital Marketers<br>• SEO Specialists | [View Tool](http://www.tooljunction.io/ai-tools/localo) |
 | Kendal | • Social media content<br>• Image creation<br>• Post management | • Social Media Managers<br>• Digital Marketers<br>• Content Creators | [View Tool](http://www.tooljunction.io/ai-tools/kendal) |
+| NotFair | • SEO site analysis & keyword research<br>• Google Ads & Meta Ads management<br>• GEO optimization & schema markup | • SEO Specialists<br>• Digital Marketers<br>• Paid Ads Managers | [View Tool](https://github.com/nowork-studio/NotFair) |
 
 ## Productivity & Automation
 
